@@ -1,0 +1,605 @@
+{
+  "title": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos",
+  "metaDescription": "Latest news coverage, email, free stock quotes, live scores and video are just the beginning. Discover more every day at Yahoo!",
+  "metaKeywords": "yahoo, yahoo home page, yahoo homepage, yahoo search, yahoo mail, yahoo messenger, yahoo games, news, finance, sport, entertainment",
+  "links": [
+    {
+      "href": "https://www.yahoo.com/",
+      "text": "News",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/news/",
+      "text": "Today's news",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/news/us/",
+      "text": "US",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/news/politics/",
+      "text": "Politics",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/news/world/",
+      "text": "World",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/tech/",
+      "text": "Tech",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/tech/reviews-deals/",
+      "text": "Reviews and deals",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/tech/audio/",
+      "text": "Audio",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/tech/computing/",
+      "text": "Computing",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/tech/gaming/",
+      "text": "Gaming",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/tech/health/",
+      "text": "Health",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/tech/home/",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/tech/phones/",
+      "text": "Phones",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/tech/science/",
+      "text": "Science",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/tech/tvs/",
+      "text": "TVs",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/tagged/climate-change/",
+      "text": "Climate change",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/news/health/",
+      "text": "Health",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/news/science/",
+      "text": "Science",
+      "title": ""
+    },
+    {
+      "href": "https://news.yahoo.com/originals/",
+      "text": "Originals",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/news/tagged/360/",
+      "text": "The 360",
+      "title": ""
+    },
+    {
+      "href": "https://news.yahoo.com/newsletters/",
+      "text": "Newsletters",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/",
+      "text": "Life",
+      "title": ""
+    },
+    {
+      "href": "https://health.yahoo.com/",
+      "text": "Health",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/covid/",
+      "text": "COVID-19",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/fall-allergies/",
+      "text": "Fall allergies",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/do-i-need-to-worry/",
+      "text": "Health news",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/mental-health/",
+      "text": "Mental health",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/relax/",
+      "text": "Relax",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/sexual-health/",
+      "text": "Sexual health",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/study/",
+      "text": "Studies",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/the-unwind/",
+      "text": "The Unwind",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/parenting/",
+      "text": "Parenting",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/family-health/",
+      "text": "Family health",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/so-mini-ways/",
+      "text": "So mini ways",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/style-beauty/",
+      "text": "Style and beauty",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/it-figures/",
+      "text": "It Figures",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/unapologetically/",
+      "text": "Unapologetically",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/horoscope/",
+      "text": "Horoscopes",
+      "title": ""
+    },
+    {
+      "href": "https://shopping.yahoo.com/",
+      "text": "Shopping",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/best-of/",
+      "text": "Buying guides",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/food/",
+      "text": "Food",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/lifestyle/tagged/travel/",
+      "text": "Travel",
+      "title": ""
+    },
+    {
+      "href": "https://autos.yahoo.com/",
+      "text": "Autos",
+      "title": ""
+    },
+    {
+      "href": "https://shopping.yahoo.com/gift-ideas/",
+      "text": "Gift ideas",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/topics/buying-guides/",
+      "text": "Buying guides",
+      "title": ""
+    },
+    {
+      "href": "https://shopping.yahoo.com/deals/live/amazon-spring-sale-the-best-early-deals-on-kitchen-gadgets-tech-spring-clothing-and-more-at-up-to-80-off-131629652.html",
+      "text": "Amazon Spring Sale",
+      "title": ""
+    },
+    {
+      "href": "https://tech.yahoo.com/deals/live/amazon-big-spring-sale-tech-deals-are-live-huge-savings-on-apple-playstation-samsung-and-more-160152351.html",
+      "text": "Amazon tech sales",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/",
+      "text": "Entertainment",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/celebrity/",
+      "text": "Celebrity",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/tv/",
+      "text": "TV",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/movies/",
+      "text": "Movies",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/music/",
+      "text": "Music",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/tagged/how-to-watch/",
+      "text": "How to Watch",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/tagged/interviews/",
+      "text": "Interviews",
+      "title": ""
+    },
+    {
+      "href": "https://www.yahoo.com/entertainment/tagged/videos/",
+      "text": "Videos",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/",
+      "text": "Finance",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/portfolios/",
+      "text": "My portfolio",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/portfolio/p_1/view/v1",
+      "text": "My watchlist",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/news/",
+      "text": "News",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/topic/stock-market-news/",
+      "text": "Stock market",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/topic/economic-news/",
+      "text": "Economics",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/topic/earnings/",
+      "text": "Earnings",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/topic/crypto/",
+      "text": "Crypto",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/live/politics/",
+      "text": "Politics",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/bidenomics/",
+      "text": "Biden economy",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/topic/personal-finance-news/",
+      "text": "Personal finance",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/calendar/",
+      "text": "Markets",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/most-active/",
+      "text": "Stocks: most active",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/gainers/",
+      "text": "Stocks: gainers",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/losers/",
+      "text": "Stocks: losers",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/trending-tickers/",
+      "text": "Trending tickers",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/commodities/",
+      "text": "Futures",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/world-indices/",
+      "text": "World indices",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/bonds/",
+      "text": "US Treasury bonds",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/currencies/",
+      "text": "Currencies",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/crypto/",
+      "text": "Crypto",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/etfs/",
+      "text": "Top ETFs",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/mutualfunds",
+      "text": "Top mutual funds",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/options/highest-open-interest/",
+      "text": "Highest open interest",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/options/highest-implied-volatility/",
+      "text": "Highest implied volatility",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/currency-converter/",
+      "text": "Currency converter",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/",
+      "text": "Sectors",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/basic-materials/",
+      "text": "Basic materials",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/communication-services/",
+      "text": "Communication services",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/consumer-cyclical/",
+      "text": "Consumer cyclical",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/consumer-defensive/",
+      "text": "Consumer defensive",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/energy/",
+      "text": "Energy",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/financial-services/",
+      "text": "Financial services",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/healthcare/",
+      "text": "Healthcare",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/industrials/",
+      "text": "Industrials",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/real-estate/",
+      "text": "Real estate",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/technology/",
+      "text": "Technology",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/sectors/utilities/",
+      "text": "Utilities",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/",
+      "text": "Screeners",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/watchlists/",
+      "text": "Watchlists",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/new/",
+      "text": "Equities",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/etf/new/",
+      "text": "ETFs",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/future/new/",
+      "text": "Futures",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/index/new/",
+      "text": "Index",
+      "title": ""
+    },
+    {
+      "href": "https://finance.yahoo.com/screener/mutualfund/new/",
+      "text": "Mutual funds",
+      "title": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.yahoo.com/info/p.gif?apptype=default&beaconType=pageRenderStart&code=pageRender&bucket=ushnel-ibv2-ctrl%2CTNBE000%2Cseamless&device=desktop&intl=us&rid=71ch3l1julof1&site=fp&t=1743446497582",
+      "alt": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/5luX2lmK7HWc.PPa.iiwbA--~B/Zmk9c3RyaW07aD0yNzI7cT05NTt3PTU2MDthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2025-03/557553e0-0e15-11f0-95ff-5b1cca83e26f.cf.webp",
+      "alt": "",
+      "width": 560,
+      "height": 272
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/qWs16sKdfZoCP8u.nY5KNw--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2025-03/6e8b89e0-0e4b-11f0-afff-8f3c8f1440b3.cf.webp",
+      "alt": "",
+      "width": 356,
+      "height": 180
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/dNp9roYFFg6BUvoWK26sRw--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2025-03/f8dd6d20-0e32-11f0-bfce-8938e8f826ba.cf.webp",
+      "alt": "",
+      "width": 356,
+      "height": 180
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/Q8LzaUYTxde75Cd4ntKslw--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2025-03/1f768f10-0de9-11f0-8b9a-ff5801c1b1e1.cf.webp",
+      "alt": "",
+      "width": 356,
+      "height": 180
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/wwFGw4oTenJuska8tEmY2g--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2025-03/17c1f170-0dc5-11f0-bfcb-5e35d85a0102.cf.webp",
+      "alt": "",
+      "width": 356,
+      "height": 180
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/kB4BVuKL.BSJt6RaTP6MmA--~B/Zmk9c3RyaW07aD0xODA7cT04MDt3PTM1NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2025-03/cb8e4190-0bd6-11f0-ad7f-75d1f04f58de.cf.webp",
+      "alt": "",
+      "width": 356,
+      "height": 180
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/WvQjSXgDY2fVeAXVge7fNg--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/8d5ac64826b6cfbef678c6bf96de254c.cf.webp",
+      "alt": "",
+      "width": 536,
+      "height": 284
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/eOZgxxqalBZvhe84UeVdng--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/popular_mechanics_642/af6acb9b6ee166eba9acb43dd63d1dd9.cf.webp",
+      "alt": "",
+      "width": 536,
+      "height": 284
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/nMyTGbRS7Ua_zzLRwnBUAA--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/men_s_journal_718/e5771a295fb5b49272ebe308508c5b6a.cf.webp",
+      "alt": "",
+      "width": 536,
+      "height": 284
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/dvac6cur803MQyJG.Y_FFA--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_independent_635/15ff78a6f2ae745d088bedf8ab28c133.cf.webp",
+      "alt": "",
+      "width": 536,
+      "height": 284
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/qP8eEL2lNhdS5mTl.4_Tlg--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ny_post_sports_articles_389/56bc320006549354c4cd9335f26a954b.cf.webp",
+      "alt": "",
+      "width": 536,
+      "height": 284
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/nNm6AJNGJbg.KP82Gi3uJw--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_cool_down_737/386a97f1e665f1e80cc1aecb017dc9e0.cf.webp",
+      "alt": "",
+      "width": 536,
+      "height": 284
+    },
+    {
+      "src": "https://s.yimg.com/uu/api/res/1.2/oCpOa5JUevPfET_Z5UPPZw--~B/Zmk9c3RyaW07aD0yODQ7cT04MDt3PTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/Benzinga/7ef1d331176825ed91c1a29423055b14.cf.webp",
+      "alt": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "https://s.yimg.com/cv/apiv2/yahoo_weather_web/accuweather-horizontal.png",
+      "alt": "AccuWeather",
+      "width": 240,
+      "height": 34
+    },
+    {
+      "src": "https://www.yahoo.com/info/p.gif?apptype=default&beaconType=pageRenderEnd&code=pageRender&bucket=ushnel-ibv2-ctrl%2CTNBE000%2Cseamless&device=desktop&intl=us&rid=71ch3l1julof1&site=fp&t=1743446497585",
+      "alt": "",
+      "width": 0,
+      "height": 0
+    }
+  ]
+}
